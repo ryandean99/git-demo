@@ -7,3 +7,5 @@ This is another paragraph.
 ## This is section two
 
 Just text.
+
+This is some locally added text
