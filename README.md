@@ -2,6 +2,8 @@
 
 These are the notes in my markdown (.md) file.
 
+This is another paragraph.
+
 ## This is some more text
 
 Just text.text
